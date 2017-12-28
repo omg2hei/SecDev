@@ -1,0 +1,2 @@
+$_SERVER["REMOTE_ADDR"]
+# 获取客户端IP，无法伪造，不可控，不存在 SQL 注入一类问题
